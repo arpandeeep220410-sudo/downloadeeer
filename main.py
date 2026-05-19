@@ -7,7 +7,7 @@ from telegram.ext import (
     CallbackQueryHandler, ContextTypes, filters
 )
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("8615393496:AAGtjfoPfIm5PDh1Oc7wB9gpi2w13fXGm34", "")
 
 # ── helpers ──────────────────────────────────────────────────────────────────
 
